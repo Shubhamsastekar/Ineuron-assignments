@@ -1,2 +1,2 @@
 # Ineuron-assignments
-Assignments repository
+ineuron Assignments repository
